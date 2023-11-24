@@ -30,6 +30,14 @@ body{
     margin-left: 10%;
 }
 
+.output{
+    width: 50vw;
+    height: 30vw;
+    background-color: #b6af9d;
+    margin-left: 27%;
+    margin-top: 3%;
+}
+
 .textfield {
     width: 100%;
 }
