@@ -27,7 +27,7 @@ function handleInputChange(e) {
 
 const colorInput = document.getElementById('color');
 
-checkBox.addEventListener('change', function(e) {
+checkBox.addEventListener('change', function() {
     const color = colorInput.value;
     divBox.style.backgroundColor = color;
 });
